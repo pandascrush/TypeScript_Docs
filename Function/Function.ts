@@ -1,5 +1,6 @@
 function addTwo(num: number) {
-  return num + 2;
+  // return num + 2;
+  return "hello";
 }
 
 function toUpper(val: String) {
@@ -8,11 +9,11 @@ function toUpper(val: String) {
 
 function signUpUser(name: string, email: string, isPaid: Boolean) {}
 
-function loginUser(name:String, email:String, isPaid:Boolean = false){}
+function loginUser(name: String, email: String, isPaid: Boolean = false) {}
 
 addTwo(5);
 toUpper("Dog");
 signUpUser("Siva", "sivaranji@gmail.com", true);
-loginUser('Sibu',"siva@v.com")
+loginUser("Sibu", "siva@v.com");
 
-export {}
+export {};
