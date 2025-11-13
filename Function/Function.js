@@ -10,6 +10,7 @@ function loginUser(name, email, isPaid) {
     isPaid = false;
   }
 }
+
 addTwo(5);
 toUpper("Dog");
 signUpUser("Siva", "sivaranji@gmail.com", true);
