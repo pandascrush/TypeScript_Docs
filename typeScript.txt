@@ -1,3 +1,5 @@
 Globally Installing TypeScript  : npm install -g typescript
 
 using this command to run the script : "tsc fileanme"
+
+hhhhi
